@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mahmoud15ghazalla
 - 👀 I’m interested in coding in c++ and java
 - 🌱 I’m currently learning c++ and java also
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me coursesudemy803@gmail.com
 
 <!---
